@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 <!-- <p class="texttt-bold">rshorey@uwaterloo.ca</p> -->
 <span class="texttt-bold">rshorey@uwaterloo.ca</span>
 
-<p style="font-size: 0.8em; margin-top: -10px;" markdown="1">Want to chat about something?
+<br>
 
 I am a research and development scientist with a strong background in biopolymer synthesis, processing, characterization, and process safety. My doctoral degree focused on developing and characterizing novel lignocellulosic polymer materials for advanced applications, contributing to sustainable practices within the industry.
 
@@ -30,6 +30,7 @@ I believe that responsible practices by our generation are key to saving our pla
 
 **Together, we can build a sustainable future.**
 
+<br>
 
 <!-- SEAN!!!. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
