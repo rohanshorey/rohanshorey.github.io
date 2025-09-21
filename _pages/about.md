@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 <!-- <p class="texttt-bold">rshorey@uwaterloo.ca</p> -->
 <span class="texttt-bold">rshorey@uwaterloo.ca</span>
 
-<p style="font-size: 0.8em; margin-top: -10px;" markdown="1">Want to chat about something? <a href="add your link here">Book unoffice hours</a>.
+<p style="font-size: 0.8em; margin-top: -10px;" markdown="1">Want to chat about something?
 
 I am a research and development scientist with a strong background in biopolymer synthesis, processing, characterization, and process safety. My doctoral degree focused on developing and characterizing novel lignocellulosic polymer materials for advanced applications, contributing to sustainable practices within the industry.
 
