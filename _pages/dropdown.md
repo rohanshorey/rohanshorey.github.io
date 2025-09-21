@@ -6,7 +6,7 @@ nav_order: 8
 dropdown: false
 children:
   - title: Publicatio
-    url: https://scholar.google.com/citations?user=Y5ReiQsAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=JBkRHpsAAAAJ&hl=en
   - title: divider
   - title: Climbs
     permalink: /climbs/
