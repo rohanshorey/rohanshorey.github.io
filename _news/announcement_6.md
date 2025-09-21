@@ -5,4 +5,4 @@ inline: false
 related_posts: false
 ---
 
-[_How to Love in Sanskrit_](https://www.goodreads.com/book/show/205425671-how-to-love-in-sanskrit) (HarperCollins 2024) is out! (Read a review by Prof. Victoria Moul [here](https://vamoul.substack.com/p/whats-the-point-of-classical-translation?utm_source=publication-search))
+Event 6
