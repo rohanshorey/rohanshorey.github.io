@@ -21,7 +21,6 @@ social: false # includes social icons at the bottom of the page
 <span class="texttt-bold">rshorey@uwaterloo.ca</span>
 
 <br>
-
 I am a research and development scientist with a strong background in biopolymer synthesis, processing, characterization, and process safety. My doctoral degree focused on developing and characterizing novel lignocellulosic polymer materials for advanced applications, contributing to sustainable practices within the industry.
 
 My passion for the environment extends beyond my technical expertise. I am a staunch advocate for Environmental, Social, and Governance (ESG) principles and am deeply committed to driving sustainability initiatives that address climate change and promote ecological balance. With over three years of experience in polymer material development, I am eager to leverage my skills to make a tangible impact in sustainability roles.
