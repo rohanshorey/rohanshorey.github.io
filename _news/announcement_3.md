@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-18 07:59:00-0400
+date: 2023-08
 inline: true
 related_posts: false
 ---
 
-Event 3
+Successfully defended his thesis about (Chemical Tailoring of Lignin for Functional and Sustainable Material Solutions) <https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JBkRHpsAAAAJ&citation_for_view=JBkRHpsAAAAJ:2osOgNQ5qMEC>
