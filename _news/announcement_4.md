@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-13 07:59:00-0400
+date: 2023-05
 inline: true
 related_posts: false
 ---
 
-Event 4
+Keynote presenter and award winner for Academic Excellence at IPR symposium 2023.
