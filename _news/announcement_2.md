@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started Postdoc at University of Waterloo
+Started Postdoc at University of Waterloo.
