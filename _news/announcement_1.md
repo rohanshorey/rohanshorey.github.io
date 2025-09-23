@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-25 15:59:00-0400
+date: 2025-09
 inline: true
 related_posts: false
 ---
 
- Event 1
+ Rohan is presenting his work at (Americas Regional Meeting of the Polymer Processing Society, PPS 2025) <https://pps2025.ca/>
