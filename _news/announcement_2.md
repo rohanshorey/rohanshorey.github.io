@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-01 07:59:00-0400
+date: 2024-08
 inline: true
 related_posts: false
 ---
 
-Event 2
+Started Postdoc at University of Waterloo
