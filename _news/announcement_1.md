@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- Rohan is presenting his work at (Americas Regional Meeting of the Polymer Processing Society, PPS 2025) <https://pps2025.ca/>
+ Presenting his work at (Americas Regional Meeting of the Polymer Processing Society, PPS 2025) <https://pps2025.ca/>
