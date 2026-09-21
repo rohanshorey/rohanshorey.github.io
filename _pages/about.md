@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Biopolymer Scientist, Sustainability, ESG
-
+subtitle: Polymers l Batteries l AI
 profile:
   align: right
   image: RS_img.jpg
